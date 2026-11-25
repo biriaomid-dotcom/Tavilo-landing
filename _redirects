@@ -1,0 +1,6 @@
+/u/*       https://app.tavilo.se/u/:splat       301
+/j/*       https://app.tavilo.se/j/:splat       301
+/admin     https://app.tavilo.se/admin          301
+/admin/*   https://app.tavilo.se/admin/:splat   301
+/owner     https://app.tavilo.se/owner          301
+/owner/*   https://app.tavilo.se/owner/:splat   301
